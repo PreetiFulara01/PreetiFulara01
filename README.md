@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Preeti
 
-<!--
-**PreetiFulara01/PreetiFulara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year B.Tech student in Artificial Intelligence and Machine Learning at GGSIPU, while also pursuing a BS in Artificial Intelligence and Data Science from IIT Jodhpur.
 
-Here are some ideas to get you started:
+I'm currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Python and programming
+* Data analysis and visualization
+
+I enjoy learning through hands-on projects, experimenting with different technologies, and participating in hackathons and academic projects.
+
+Currently, I'm focused on strengthening my technical foundations and building practical projects in AI, ML, and Data Science.
+
+## Skills
+
+* Python
+* C/C++
+* SQL
+* Power BI
+* Tableau
+
+## Currently Learning
+
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Data Analysis
+* Data Structures & Algorithms
+* Git & GitHub
+
+---
+
+*Always learning, building, and improving.*
+
